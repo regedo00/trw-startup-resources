@@ -34,6 +34,7 @@ Let's collaborate and share knowledge! 🚀
 * [Founder University 12-Week Course](https://www.founder.university/) **(Founder University)**
 * [The Pmarca Guide to Startups](https://fictivekin.github.io/pmarchive-jekyll//index.html#guide-to-startups) **(Marc Andreesen)**
 * [How to Raise Your First Round of Funding](https://fi.co/first-startup-funding) **(The FOunder Institute)**
+* [Venture Hacks, advice for startups](https://venturehacks.com/archives#top-posts) **(Venture Hacks)**
 
 ## Books
 * [The Power Law: Venture Capital and the Making of the New Future](https://www.goodreads.com/book/show/58009109-the-power-law) **(Sebastian Mallaby)**
