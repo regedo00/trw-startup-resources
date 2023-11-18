@@ -53,6 +53,7 @@ Let's collaborate and share knowledge! 🚀
 * [How to build your seed round pitch deck](https://www.ycombinator.com/library/2u-how-to-build-your-seed-round-pitch-deck) **(Y Combinator)**
 * [How to build a great Series A pitch and deck](https://www.ycombinator.com/library/8d-how-to-build-a-great-series-a-pitch-and-deck) **(Y Combinator)**
 * [How to Pitch Your Startup](https://www.ycombinator.com/library/6q-how-to-pitch-your-startup) **(Y Combinator)**
+* [How to build a startup pitch deck](https://openvc.app/blog/startup-pitch-deck) **(OpenVC)**
 
 ## Due Diligence
 * [The red flags and magic numbers that investors look for in your startup’s metrics](https://andrewchen.com/investor-metrics-deck/) **(Andrew Chen)**
@@ -62,6 +63,7 @@ Let's collaborate and share knowledge! 🚀
 ## Valuation
 * [A guide to startup valuation](https://www.hustlefund.vc/post/startup-valuation-guide) **(Hustle Fund)**
 * [Some data from Loom $975M acquisition](https://www.linkedin.com/feed/update/urn:li:activity:7118308684660645888/) **(Phil Haslett)**
+* [How to value your startup](https://openvc.app/blog/how-to-value-a-startup) **(OpenVC)**
 
 ## Legal docs
 * [Y Combinator SAFE](https://www.ycombinator.com/documents) **(Y Combinator)**
