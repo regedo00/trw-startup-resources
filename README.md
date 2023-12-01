@@ -33,11 +33,12 @@ Let's collaborate and share knowledge! 🚀
 * [Venture Deals Fall 2023](https://venturedeals.techstars.com/courses/venture-deals-Fall-2023) **(Techstars)**
 * [Founder University 12-Week Course](https://www.founder.university/) **(Founder University)**
 * [The Pmarca Guide to Startups](https://fictivekin.github.io/pmarchive-jekyll//index.html#guide-to-startups) **(Marc Andreesen)**
-* [How to Raise Your First Round of Funding](https://fi.co/first-startup-funding) **(The FOunder Institute)**
+* [How to Raise Your First Round of Funding](https://fi.co/first-startup-funding) **(The Founder Institute)**
 * [Venture Hacks, advice for startups](https://venturehacks.com/archives#top-posts) **(Venture Hacks)**
 
 ## Books
 * [The Power Law: Venture Capital and the Making of the New Future](https://www.goodreads.com/book/show/58009109-the-power-law) **(Sebastian Mallaby)**
+* [Secrets of Sand Hill Road: Venture Capital and How to Get It](https://www.goodreads.com/book/show/42348376-secrets-of-sand-hill-road) **(Scott Kupor)**
 
 ## Terminology
 * [VC Terminology: Top 100 Terms Aspiring Angel Investors Should Know](https://www.hustlefund.vc/post/vc-terminology) **(Hustle Fund)**
@@ -54,6 +55,7 @@ Let's collaborate and share knowledge! 🚀
 * [How to build a great Series A pitch and deck](https://www.ycombinator.com/library/8d-how-to-build-a-great-series-a-pitch-and-deck) **(Y Combinator)**
 * [How to Pitch Your Startup](https://www.ycombinator.com/library/6q-how-to-pitch-your-startup) **(Y Combinator)**
 * [How to build a startup pitch deck](https://openvc.app/blog/startup-pitch-deck) **(OpenVC)**
+* [1000+ Pitch Deck Examples From the Most Successful Startups](https://www.pitchdeckhunt.com/) **(PitchDeckHunt)**
 
 ## Due Diligence
 * [The red flags and magic numbers that investors look for in your startup’s metrics](https://andrewchen.com/investor-metrics-deck/) **(Andrew Chen)**
@@ -86,4 +88,5 @@ Let's collaborate and share knowledge! 🚀
 * [A crash course on Venture Capital from an ex-investor at a $100 billion fund](https://entrepreneurshandbook.co/a-crash-course-on-venture-capital-from-an-ex-investor-at-a-100-billion-fund-8effbac9062) **(Entrepreneurs Handbook)**
 * [The VC jobs hierarchy](https://sifted.eu/articles/what-every-job-role-in-a-vc-firm-actually-entails) **(Sifted)**
 * [Approaching venture capital with intention (Podcast)](https://www.interplay.vc/podcast/approaching-venture-capital-with-intention-seth-levine-foundry) **(Interplay)**
+* [How to get a meeting with an investor](https://www.hustlefund.vc/blog-posts-founders/how-to-get-a-meeting-with-an-investor) **(Hustle Fund)**
 * [Inside the minds of European VCs](https://my.visme.co/view/016mp816-inside-the-minds-of-european-vcs-speedinvest) **(Speedinvest)**
