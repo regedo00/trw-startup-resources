@@ -66,11 +66,14 @@ Let's collaborate and share knowledge! 🚀
 * [A guide to startup valuation](https://www.hustlefund.vc/post/startup-valuation-guide) **(Hustle Fund)**
 * [Some data from Loom $975M acquisition](https://www.linkedin.com/feed/update/urn:li:activity:7118308684660645888/) **(Phil Haslett)**
 * [How to value your startup](https://openvc.app/blog/how-to-value-a-startup) **(OpenVC)**
+* [Explain SAFEs and dilution to me like I’m 5](https://www.hustlefund.vc/blog-posts-founders/explain-safes-and-dilution-to-me-like-im-5) **(Hustle Fund)**
 
 ## Legal docs
 * [Y Combinator SAFE](https://www.ycombinator.com/documents) **(Y Combinator)**
 * [Italian SAFE](https://www.italiantechalliance.com/risorse) **(Italian Tech Alliance)**
 * [Italian termsheet Series A](https://www.italiantechalliance.com/risorse) **(Italian Tech Alliance)**
+* [Term SHeet](https://www.goingvc.com/categories/term-sheets) **(GoingVC)**
+
 
 ## Stock Options
 * [A guide to stock options for European entrepreneurs](https://www.indexventures.com/rewardingtalent/handbook) **(Index Ventures)**
@@ -78,6 +81,7 @@ Let's collaborate and share knowledge! 🚀
 * [A cheatsheet for giving out equity to advisors](https://www.linkedin.com/posts/peterjameswalker_cartadata-advisors-equity-activity-7108494985343221761-Ni5q) **(Carta)**
 
 ## Investor relations
+* [How can founders get value from their VCs?](https://thegeneralist.substack.com/p/braintrust-3) **(The Generalist)**
 * [10 Tips to Make Your VCs Calmer, Happier, and on your side](https://www.saastr.com/10-tips-to-make-your-vcs-calmer-happier-and-on-your-side) **(SaaStr)**
 * [How Founders Can Manage Investor Relations During A Recession](https://news.crunchbase.com/startups/founders-investor-relations-recession-ripple-cohen) **(Crunchbase)**
 * [Investor updates 101: everything you need to know](https://sifted.eu/articles/investor-updates-101) **(Sifted)**
