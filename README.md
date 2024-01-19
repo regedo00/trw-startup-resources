@@ -72,7 +72,7 @@ Let's collaborate and share knowledge! 🚀
 * [Y Combinator SAFE](https://www.ycombinator.com/documents) **(Y Combinator)**
 * [Italian SAFE](https://www.italiantechalliance.com/risorse) **(Italian Tech Alliance)**
 * [Italian termsheet Series A](https://www.italiantechalliance.com/risorse) **(Italian Tech Alliance)**
-* [Term SHeet](https://www.goingvc.com/categories/term-sheets) **(GoingVC)**
+* [Term Sheet](https://www.goingvc.com/categories/term-sheets) **(GoingVC)**
 
 
 ## Stock Options
@@ -88,6 +88,7 @@ Let's collaborate and share knowledge! 🚀
 * [The Business of Annual Letters](https://capitalgains.thediff.co/p/annual-letters/) **(Capital Gains)**
 
 ## VCs
+* [Questions early stage VCs may ask you](https://docs.google.com/document/d/1qjKBJtF0iKmJG_4IYx7qHlDNmHoGQKKTw9ab6LsVTbI/edit) **(Hustle Fund)**
 * [VC Investor Ranking](https://dealroom.co/guides/vc-investor-ranking) **(Dealroom)**
 * [A crash course on Venture Capital from an ex-investor at a $100 billion fund](https://entrepreneurshandbook.co/a-crash-course-on-venture-capital-from-an-ex-investor-at-a-100-billion-fund-8effbac9062) **(Entrepreneurs Handbook)**
 * [The VC jobs hierarchy](https://sifted.eu/articles/what-every-job-role-in-a-vc-firm-actually-entails) **(Sifted)**
