@@ -22,9 +22,11 @@ Let's collaborate and share knowledge! 🚀
 - [🔍 Due Diligence](#due-diligence)
 - [💸 Valuation](#valuation)
 - [🖋️ Legal docs](#legal-docs)
+- [⏳ Convertible notes](#convertible-notes)
 - [🤑 Stock Options](#stock-options)
 - [📫 Investor Relations](#investor-relations)
 - [🦄 VCs](#vcs)
+- [⛔ Mistakes](#mistakes)
 
 ---
 ## Courses
@@ -42,6 +44,7 @@ Let's collaborate and share knowledge! 🚀
 * [Secrets of Sand Hill Road: Venture Capital and How to Get It](https://www.goodreads.com/book/show/42348376-secrets-of-sand-hill-road) **(Scott Kupor)**
 
 ## Terminology
+* [VC Glossary](https://www.cbinsights.com/research-vc-glossary-index) **(CB Insights)**
 * [VC Terminology: Top 100 Terms Aspiring Angel Investors Should Know](https://www.hustlefund.vc/post/vc-terminology) **(Hustle Fund)**
 * [What do the terms on your termsheet actually mean?](https://sifted.eu/articles/details-term-sheet-actually-mean/) **(Sifted)**
 * [MOIC? QP? TVPI? VC terms you need to know](https://www.linkedin.com/pulse/moic-qp-tvpi-ryan-hoover-abhze/) **(Signature Block)**
@@ -75,6 +78,8 @@ Let's collaborate and share knowledge! 🚀
 * [Italian termsheet Series A](https://www.italiantechalliance.com/risorse) **(Italian Tech Alliance)**
 * [Term Sheet](https://www.goingvc.com/categories/term-sheets) **(GoingVC)**
 
+## Convertible Notes
+* [How do convertible notes work - Infographic](https://www.equidam.com/how-do-convertible-notes-work-infographic/) **(Equidam)**
 
 ## Stock Options
 * [A guide to stock options for European entrepreneurs](https://www.indexventures.com/rewardingtalent/handbook) **(Index Ventures)**
@@ -96,3 +101,6 @@ Let's collaborate and share knowledge! 🚀
 * [Approaching venture capital with intention (Podcast)](https://www.interplay.vc/podcast/approaching-venture-capital-with-intention-seth-levine-foundry) **(Interplay)**
 * [How to get a meeting with an investor](https://www.hustlefund.vc/blog-posts-founders/how-to-get-a-meeting-with-an-investor) **(Hustle Fund)**
 * [Inside the minds of European VCs](https://my.visme.co/view/016mp816-inside-the-minds-of-european-vcs-speedinvest) **(Speedinvest)**
+
+## Mistakes
+* [Fundraising mistakes founders make](https://blog.samaltman.com/fundraising-mistakes-founder-make) **(Sam Altman)**
