@@ -104,3 +104,4 @@ Let's collaborate and share knowledge! 🚀
 
 ## Mistakes
 * [Fundraising mistakes founders make](https://blog.samaltman.com/fundraising-mistakes-founder-make) **(Sam Altman)**
+* [When your cap table makes your startup uninvestable](https://techcrunch.com/2024/03/04/poison-pill-cap-table/) **(TechCrunch)**
