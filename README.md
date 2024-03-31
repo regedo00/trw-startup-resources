@@ -22,7 +22,7 @@ Let's collaborate and share knowledge! 🚀
 - [🔍 Due Diligence](#due-diligence)
 - [💸 Valuation](#valuation)
 - [🖋️ Legal docs](#legal-docs)
-- [⏳ Convertible notes](#convertible-notes)
+- [⏳ Convertibles](#convertibles)
 - [🤑 Stock Options](#stock-options)
 - [📫 Investor Relations](#investor-relations)
 - [🦄 VCs](#vcs)
@@ -78,8 +78,9 @@ Let's collaborate and share knowledge! 🚀
 * [Italian termsheet Series A](https://www.italiantechalliance.com/risorse) **(Italian Tech Alliance)**
 * [Term Sheet](https://www.goingvc.com/categories/term-sheets) **(GoingVC)**
 
-## Convertible Notes
+## Convertibles
 * [How do convertible notes work - Infographic](https://www.equidam.com/how-do-convertible-notes-work-infographic/) **(Equidam)**
+* [What to expect when you’re expecting (dilution)](https://www.saas.wtf/p/expect-youre-expecting-dilution) **(Saas.wtf)**
 
 ## Stock Options
 * [A guide to stock options for European entrepreneurs](https://www.indexventures.com/rewardingtalent/handbook) **(Index Ventures)**
