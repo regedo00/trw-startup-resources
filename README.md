@@ -1,12 +1,11 @@
-# 📚 TRW Fundraising Resources for Founders
+# 📚 Fundraising Resources for Founders
 
 Hello there! 👋
 
-This collection is dedicated to assisting startup founders in their **fundraising endeavors**. These materials are shared weekly through the [**☕ Tech Readings of the Week**](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7039008827605692416) newsletter on LinkedIn.
+This collection is here to help startup founders with their **fundraising** efforts. 
+It's packed with valuable resources and tools from industry experts and is (almost) regularly updated with new content.
 
-The repository will be regularly updated with new content from future newsletter issues.
-
-If you have valuable contributions, please don't hesitate to get involved. You can send a pull request, or if you're not familiar with GitHub, feel free to reach out to me via DM on [**LinkedIn**](https://www.linkedin.com/in/edoardo-reggiani/) or [**X**](https://twitter.com/EdoardoReggiani).
+Got something to add? Feel free to send a pull request. Not familiar with GitHub? No worries! Just DM me on [**LinkedIn**](https://www.linkedin.com/in/edoardo-reggiani/) or [**X**](https://twitter.com/EdoardoReggiani).
 
 Let's collaborate and share knowledge! 🚀
 
@@ -28,7 +27,8 @@ Let's collaborate and share knowledge! 🚀
 - [🦄 VCs](#vcs)
 - [⛔ Mistakes](#mistakes)
 
----
+&nbsp;
+&nbsp;
 ## Courses
 * [Y Combinator Startup School](https://www.startupschool.org/) **(Y Combinator)**
 * [Techstars Fundraising Series](https://accelerate.techstars.com/fundraising-series) **(Techstars)**
@@ -60,6 +60,8 @@ Let's collaborate and share knowledge! 🚀
 * [How to Pitch Your Startup](https://www.ycombinator.com/library/6q-how-to-pitch-your-startup) **(Y Combinator)**
 * [How to build a startup pitch deck](https://openvc.app/blog/startup-pitch-deck) **(OpenVC)**
 * [1000+ Pitch Deck Examples From the Most Successful Startups](https://www.pitchdeckhunt.com/) **(PitchDeckHunt)**
+* [Writing a Business Plan](https://articles.sequoiacap.com/writing-a-business-plan) **(Sequoia)**
+* [Creandum Series A Deck Template](https://blog.creandum.com/creandum-series-a-deck-template-21a6df9c1ac4) **(Creandum)**
 
 ## Due Diligence
 * [The red flags and magic numbers that investors look for in your startup’s metrics](https://andrewchen.com/investor-metrics-deck/) **(Andrew Chen)**
@@ -86,6 +88,7 @@ Let's collaborate and share knowledge! 🚀
 * [A guide to stock options for European entrepreneurs](https://www.indexventures.com/rewardingtalent/handbook) **(Index Ventures)**
 * [Paul Graham on early employee and equity](https://twitter.com/paulg/status/1646465300144041989) **(Paul Graham)**
 * [A cheatsheet for giving out equity to advisors](https://www.linkedin.com/posts/peterjameswalker_cartadata-advisors-equity-activity-7108494985343221761-Ni5q) **(Carta)**
+* [Guide to Employee Equity](https://d386vao439c5lr.cloudfront.net/prod/media/2018/07/04132203/Balderton-Essential-Guide-to-Employee-Equity-2017.pdf) **(Balderton Capital)**
 
 ## Investor relations
 * [How can founders get value from their VCs?](https://thegeneralist.substack.com/p/braintrust-3) **(The Generalist)**
