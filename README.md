@@ -1,11 +1,23 @@
-# 📚 Fundraising Resources for Founders
+# 📚 Fundraising Toolkit for Startup Founders
 
 Hello there! 👋
 
-This collection is here to help startup founders with their **fundraising** efforts. 
-It's packed with valuable resources and tools from industry experts and is (almost) regularly updated with new content.
+Welcome to your one-stop shop for all things fundraising. This repo contains a curated collection of resources to support you at every stage of your fundraising journey.
 
-Got something to add? Feel free to send a pull request. Not familiar with GitHub? No worries! Just DM me on [**LinkedIn**](https://www.linkedin.com/in/edoardo-reggiani/) or [**X**](https://twitter.com/EdoardoReggiani).
+Whether you're gearing up for your pre-seed round or navigating the complexities of later stages, you'll find valuable insights here.
+
+What you'll find:
+
+* Practical fundraising guides
+* Pitching and marketing techniques
+* Industry benchmarks
+* Documents analysis
+* Advice from experienced investors and founders
+
+Got something to add? 
+
+* Send a pull request (for GitHub pros)
+* DM me on [LinkedIn](https://www.linkedin.com/in/edoardo-reggiani/) or [X](https://twitter.com/EdoardoReggiani)
 
 Let's collaborate and share knowledge! 🚀
 
@@ -53,6 +65,7 @@ Let's collaborate and share knowledge! 🚀
 * [building investor signals for a pre-seed startup](https://projectarrow.substack.com/p/building-pre-seed-signals-for-your) **(Project Arrow)**
 * [How to attract early-stage angel investors](https://sifted.eu/articles/how-to-attract-early-stage-angel-investors) **(Sifted)**
 * [The 16 Commandments of Raising Equity in a Challenging Market](https://a16z.com/2023/05/02/the-16-commandments-of-raising-equity-in-a-challenging-market/) **(a16z)**
+* [How to cold email a VC](https://openvc.app/blog/how-to-cold-email-vc) **(OpenVC)**
 
 ## Deck
 * [How to build your seed round pitch deck](https://www.ycombinator.com/library/2u-how-to-build-your-seed-round-pitch-deck) **(Y Combinator)**
