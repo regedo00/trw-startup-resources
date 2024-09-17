@@ -50,6 +50,7 @@ Let's collaborate and share knowledge! 🚀
 * [How to Raise Your First Round of Funding](https://fi.co/first-startup-funding) **(The Founder Institute)**
 * [Venture Hacks, advice for startups](https://venturehacks.com/archives#top-posts) **(Venture Hacks)**
 * [Raise millions for your startup](https://letsgo.hustlefund.vc/raise-millions) **(Hustle Fund)**
+* [Raising a seed round 101](https://www.lennysnewsletter.com/p/raising-a-seed-round-101) **(Lenny's Newsletter)**
 
 ## Books
 * [The Power Law: Venture Capital and the Making of the New Future](https://www.goodreads.com/book/show/58009109-the-power-law) **(Sebastian Mallaby)**
