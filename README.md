@@ -113,6 +113,7 @@ Let's collaborate and share knowledge! 🚀
 
 ## VCs
 * [Questions early stage VCs may ask you](https://docs.google.com/document/d/1qjKBJtF0iKmJG_4IYx7qHlDNmHoGQKKTw9ab6LsVTbI/edit) **(Hustle Fund)**
+* [The VC Meeting Map: What to Expect After a Successful First Pitch](https://nextview.vc/blog/vc-meeting-map-what-to-expect-successful-pitch) **(NextView)**
 * [VC Investor Ranking](https://dealroom.co/guides/vc-investor-ranking) **(Dealroom)**
 * [A crash course on Venture Capital from an ex-investor at a $100 billion fund](https://entrepreneurshandbook.co/a-crash-course-on-venture-capital-from-an-ex-investor-at-a-100-billion-fund-8effbac9062) **(Entrepreneurs Handbook)**
 * [The VC jobs hierarchy](https://sifted.eu/articles/what-every-job-role-in-a-vc-firm-actually-entails) **(Sifted)**
