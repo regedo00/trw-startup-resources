@@ -110,6 +110,7 @@ Let's collaborate and share knowledge! 🚀
 * [How Founders Can Manage Investor Relations During A Recession](https://news.crunchbase.com/startups/founders-investor-relations-recession-ripple-cohen) **(Crunchbase)**
 * [Investor updates 101: everything you need to know](https://sifted.eu/articles/investor-updates-101) **(Sifted)**
 * [The Business of Annual Letters](https://capitalgains.thediff.co/p/annual-letters/) **(Capital Gains)**
+* [How to Create a Co-Founder Agreement](https://thevccorner.substack.com/p/how-to-create-a-co-founder-agreement) **(The VC Corner)**
 
 ## VCs
 * [Questions early stage VCs may ask you](https://docs.google.com/document/d/1qjKBJtF0iKmJG_4IYx7qHlDNmHoGQKKTw9ab6LsVTbI/edit) **(Hustle Fund)**
