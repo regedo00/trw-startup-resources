@@ -87,6 +87,7 @@ Let's collaborate and share knowledge! 🚀
 * [Some data from Loom $975M acquisition](https://www.linkedin.com/feed/update/urn:li:activity:7118308684660645888/) **(Phil Haslett)**
 * [How to value your startup](https://openvc.app/blog/how-to-value-a-startup) **(OpenVC)**
 * [Explain SAFEs and dilution to me like I’m 5](https://www.hustlefund.vc/blog-posts-founders/explain-safes-and-dilution-to-me-like-im-5) **(Hustle Fund)**
+* [Venture Math: How VCs Value Startups](https://www.halletecco.com/blog/vc-math) **(Halle Tecco)**
 
 ## Legal docs
 * [Y Combinator SAFE](https://www.ycombinator.com/documents) **(Y Combinator)**
