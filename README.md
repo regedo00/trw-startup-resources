@@ -25,13 +25,14 @@ Let's collaborate and share knowledge! 🚀
 
 ## Index
 
-- [👩‍🏫 Courses](#courses)
+- [👩‍🏫 Courses & Deep Dives](#courses)
 - [📚 Books](#books)
 - [💬 Terminology](#terminology)
 - [📢 Marketing](#marketing)
 - [🖥️ Deck](#deck)
 - [🔍 Due Diligence](#due-diligence)
 - [💸 Valuation](#valuation)
+- [⚖️Negotiation](#negotiation)
 - [🖋️ Legal docs](#legal-docs)
 - [⏳ Convertibles](#convertibles)
 - [🤑 Stock Options](#stock-options)
@@ -51,6 +52,7 @@ Let's collaborate and share knowledge! 🚀
 * [Venture Hacks, advice for startups](https://venturehacks.com/archives#top-posts) **(Venture Hacks)**
 * [Raise millions for your startup](https://letsgo.hustlefund.vc/raise-millions) **(Hustle Fund)**
 * [Raising a seed round 101](https://www.lennysnewsletter.com/p/raising-a-seed-round-101) **(Lenny's Newsletter)**
+* [A Founder’s Ultimate Guide to Startup Equity](https://foundersnetwork.com/blog/startup-equity/) **(Founders Network)**
 
 ## Books
 * [The Power Law: Venture Capital and the Making of the New Future](https://www.goodreads.com/book/show/58009109-the-power-law) **(Sebastian Mallaby)**
@@ -67,6 +69,7 @@ Let's collaborate and share knowledge! 🚀
 * [How to attract early-stage angel investors](https://sifted.eu/articles/how-to-attract-early-stage-angel-investors) **(Sifted)**
 * [The 16 Commandments of Raising Equity in a Challenging Market](https://a16z.com/2023/05/02/the-16-commandments-of-raising-equity-in-a-challenging-market/) **(a16z)**
 * [How to cold email a VC](https://openvc.app/blog/how-to-cold-email-vc) **(OpenVC)**
+* [How to announce a funding round](https://techcrunch.com/2017/09/23/how-to-announce-a-funding-round/) **(Techcrunch)**
 
 ## Deck
 * [How to build your seed round pitch deck](https://www.ycombinator.com/library/2u-how-to-build-your-seed-round-pitch-deck) **(Y Combinator)**
@@ -88,6 +91,9 @@ Let's collaborate and share knowledge! 🚀
 * [How to value your startup](https://openvc.app/blog/how-to-value-a-startup) **(OpenVC)**
 * [Explain SAFEs and dilution to me like I’m 5](https://www.hustlefund.vc/blog-posts-founders/explain-safes-and-dilution-to-me-like-im-5) **(Hustle Fund)**
 * [Venture Math: How VCs Value Startups](https://www.halletecco.com/blog/vc-math) **(Halle Tecco)**
+
+## Negotiation
+* [All-In-One Guide to Negotiating a Venture Capital Round](https://theventurecrew.substack.com/p/how-to-negotiate-a-vc-funding-round) **(Venture Curator)**
 
 ## Legal docs
 * [Y Combinator SAFE](https://www.ycombinator.com/documents) **(Y Combinator)**
@@ -122,6 +128,7 @@ Let's collaborate and share knowledge! 🚀
 * [Approaching venture capital with intention (Podcast)](https://www.interplay.vc/podcast/approaching-venture-capital-with-intention-seth-levine-foundry) **(Interplay)**
 * [How to get a meeting with an investor](https://www.hustlefund.vc/blog-posts-founders/how-to-get-a-meeting-with-an-investor) **(Hustle Fund)**
 * [Inside the minds of European VCs](https://my.visme.co/view/016mp816-inside-the-minds-of-european-vcs-speedinvest) **(Speedinvest)**
+* [https://openvc.app/blog/warm-intros](https://openvc.app/blog/warm-intros) **(OpenVC)**
 
 ## Mistakes
 * [Fundraising mistakes founders make](https://blog.samaltman.com/fundraising-mistakes-founder-make) **(Sam Altman)**
