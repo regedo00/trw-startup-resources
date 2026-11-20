@@ -84,6 +84,7 @@ Let's collaborate and share knowledge! 🚀
 * [The red flags and magic numbers that investors look for in your startup’s metrics](https://andrewchen.com/investor-metrics-deck/) **(Andrew Chen)**
 * [Due diligence in VC — how it works](https://sifted.eu/articles/due-diligence-how-it-works) **(Sifted)**
 * [How to do investor due diligence](https://sifted.eu/articles/how-to-do-due-diligence-on-your-investors) **(Sifted)**
+* [ExampleForge first-pass due diligence case](https://www.ddscore.ai/example-report) **(DDScore)**
 
 ## Valuation
 * [A guide to startup valuation](https://www.hustlefund.vc/post/startup-valuation-guide) **(Hustle Fund)**
